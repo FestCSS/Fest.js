@@ -1,0 +1,7 @@
+{
+    "watch": ["fest.js", "lib", "pages"],
+    "ext": "js,ejs",
+    "ignore": ["node_modules"],
+    "exec": "node testfest/index.js"
+  }
+  
